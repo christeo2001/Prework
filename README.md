@@ -36,7 +36,7 @@ While building this app, I faced challenges such as understanding the errors and
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Christian Teo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
