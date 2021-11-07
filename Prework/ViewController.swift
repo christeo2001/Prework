@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Prework
 //
-//  Created by Christian Teo on 7/3/21.
+//  
 //
 
 import UIKit
