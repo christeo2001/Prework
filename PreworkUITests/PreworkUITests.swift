@@ -2,7 +2,6 @@
 //  PreworkUITests.swift
 //  PreworkUITests
 //
-//  Created by Christian Teo on 7/3/21.
 //
 
 import XCTest
